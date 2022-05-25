@@ -129,7 +129,7 @@ class MyHomePage extends StatelessWidget {
             width: double.infinity,
             height: 100,
             alignment: Alignment.center,
-            child: Text("Oleh Rafi Nur Romadhon"),
+            child: Text("By Rafi Nur Romadhon"),
           )
         ],
       )),
